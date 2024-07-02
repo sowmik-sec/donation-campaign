@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "category": "Clothing",
+    "color": "lime",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReFB71BF6hH_RjughdoOE5vi1Pgm6p9enF0Q&s",
+    "title": "Used Clothing Drive",
+    "description": "Our \"Used Clothing Drive\" is dedicated to providing essential clothing to individuals and families in need. Many people, including children and adults, lack the basic garments necessary for warmth, dignity, and daily life. By donating your gently used clothing, you can make a significant difference in their lives. Your contributions will be sorted, cleaned, and distributed to local shelters, community centers, and directly to those who need them most. Join us in our effort to support our community, reduce waste, and give your pre-loved clothes a second life. Together, we can help everyone stay warm, comfortable, and confident.",
+    "price": 149.99
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "color": "blue",
+    "img": "https://s31955.pcdn.co/wp-content/uploads/2019/10/girl-drinking.jpg",
+    "title": "Clean Water for Children",
+    "description": "Access to clean water is a fundamental human right, yet millions of children worldwide suffer from water scarcity and contamination. Our \"Clean Water for Children\" initiative aims to change that by providing safe and reliable water sources to children in need. By donating to this cause, you are helping to fund the construction of wells, the installation of water purification systems, and the development of sustainable water management practices. Your contribution ensures that children not only have access to clean drinking water but also benefit from improved health, education, and overall quality of life. Join us in our mission to make clean water a reality for every child, everywhere.",
+    "price": 199.99
+  },
+  {
+    "id": 3,
+    "category": "Education",
+    "color": "red",
+    "img": "https://concernusa.org/uploads/rs69919-1-.jpg",
+    "title": "Good Education",
+    "description": "A good education forms the cornerstone of a prosperous and equitable society. Our commitment to \"Good Education\" aims to ensure every child has access to quality learning opportunities, regardless of their background or circumstances. By supporting this cause, you contribute to initiatives that enhance school facilities, provide educational resources, and empower educators. Your donation fosters a nurturing environment where children can thrive academically and personally. Together, we can break barriers, unlock potential, and build a future where education is a pathway to success for all.",
+    "price": 599.99
+  },
+  {
+    "id": 4,
+    "category": "Health",
+    "color": "blue",
+    "img": "https://media.istockphoto.com/id/532336295/photo/close-up-of-boy-having-his-teeth-examined.jpg?s=612x612&w=0&k=20&c=LieMQsClU5QApuiS9BkzVLGP9IU96QarRArAa76__YI=",
+    "title": "Dental Care",
+    "description": "Access to proper dental care is crucial for maintaining overall health and well-being. Our \"Dental Care\" initiative focuses on ensuring that individuals, especially those in underserved communities, have access to essential dental services. By supporting this cause, you help provide preventive care, treatments for dental issues, and oral health education. Your contribution enables us to partner with dental professionals and clinics to offer affordable or free services to those who cannot afford them otherwise. Together, we can create healthier smiles and improve the quality of life for everyone in our community.",
+    "price": 249.99
+  },
+  {
+    "id": 5,
+    "category": "Education",
+    "color": "red",
+    "img": "https://i0.wp.com/www.inewsguyana.com/wp-content/uploads/2013/09/Students-of-the-Richard-Ishmael-Secondary-School-engaging-Minister-Manickchand-in-a-discussion.jpg",
+    "title": "Secondary Education",
+    "description": "Secondary education is a critical phase in a student's academic journey, laying the foundation for future success. Our commitment to \"Secondary Education\" aims to ensure that every student has access to quality learning experiences during these formative years. By supporting this cause, you contribute to initiatives that strengthen secondary school infrastructure, enhance curriculum development, and provide opportunities for extracurricular activities. Your donation helps empower students with the knowledge and skills needed to pursue higher education or enter the workforce confidently. Together, we can foster an inclusive and supportive environment where all students can thrive and achieve their fullest potential.",
+    "price": 699.99
+  },
+  {
+    "id": 6,
+    "category": "Clothing",
+    "color": "lime",
+    "img": "https://media-api.xogrp.com/images/790f0aad-3c83-4e0f-ab23-7891f1bbe204~rs_768.h",
+    "title": "Formal Wear",
+    "description": "Formal wear is more than just attire—it represents dignity, confidence, and opportunity. Our initiative for \"Formal Wear\" aims to provide individuals with the attire they need for important occasions such as job interviews, graduations, and formal events. By donating to this cause, you help ensure that everyone has access to suitable clothing that empowers them to present their best selves. Your contributions support the collection, cleaning, and distribution of formal attire to individuals who may not otherwise afford it, enabling them to participate fully and confidently in life-changing moments. Join us in promoting dignity and empowerment through formal wear.",
+    "price": 249.99
+  },
+  {
+    "id": 7,
+    "category": "Health",
+    "color": "blue",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiW5q7RYuBDd7JYYeIZcPVmWlv4OYCEDCjsw&s",
+    "title": "Cardiology",
+    "description": "Cardiology is the branch of medicine that focuses on the diagnosis, treatment, and prevention of heart and cardiovascular diseases. Our commitment to \"Cardiology\" aims to improve heart health by supporting research, education, and patient care initiatives. By donating to this cause, you contribute to advancements in cardiac technology, medical treatments, and rehabilitation programs. Your support helps cardiologists and healthcare professionals provide critical care to patients, educate the public about heart disease prevention, and conduct essential research to better understand cardiovascular conditions. Together, we can promote heart health awareness and ensure that individuals receive the necessary care and support for a healthy heart.",
+    "price": 999.99
+  },
+  {
+    "id": 8,
+    "category": "Education",
+    "color": "red",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwjc2tqcB2zmBeV898RLGWw6eTuePJXkUbQ&s",
+    "title": "Higher Education",
+    "description": "Higher education is a transformative journey that opens doors to opportunities and empowers individuals to pursue their passions and achieve their career goals. Our commitment to \"Higher Education\" aims to support students in accessing and thriving in colleges and universities. By donating to this cause, you help fund scholarships, academic programs, and infrastructure improvements that enhance learning environments. Your contribution enables students from diverse backgrounds to access quality education, develop critical thinking skills, and prepare for leadership roles in society. Together, we can build a future where education is a catalyst for innovation, equality, and global progress.",
+    "price": 999.99
+  },
+  {
+    "id": 9,
+    "category": "Clothing",
+    "color": "lime",
+    "img": "https://img.freepik.com/premium-photo/portrait-stylish-african-american-man-sportswear-cap-glasses-black-men-model-street-fashion-dancing-hip-hop_627829-14266.jpg",
+    "title": "Sportswear",
+    "description": "Sportswear plays a crucial role in enabling athletes and enthusiasts to perform at their best while staying comfortable and safe. Our initiative for \"Sportswear\" aims to provide access to appropriate attire and equipment for individuals participating in sports and physical activities. By supporting this cause, you help ensure that athletes, from recreational to competitive levels, have access to quality sportswear that enhances performance and reduces the risk of injury. Your contributions support initiatives that promote active lifestyles, community engagement through sports, and opportunities for personal development. Join us in empowering individuals to pursue their passion for sports with the right gear.",
+    "price": 149.99
+  },
+  {
+    "id": 10,
+    "category": "Food",
+    "color": "orange",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR3hizBuSvPUyEHHLmOX0qX7Ha3JKHjYsUbw&s",
+    "title": "Fruits",
+    "description": "Fruits are nature's bounty, offering essential nutrients, vitamins, and flavors that contribute to a healthy diet and overall well-being. Our commitment to \"Fruits\" aims to promote access to fresh and nutritious fruits for everyone, especially in underserved communities. By supporting this cause, you help ensure that individuals and families have access to a variety of fruits that support their health and vitality. Your contributions support initiatives that promote sustainable farming practices, reduce food waste, and educate communities about the benefits of fruit consumption. Together, we can improve nutrition, support local farmers, and foster healthier communities through the power of fruits.",
+    "price": 59.99
+  },
+  {
+    "id": 11,
+    "category": "Food",
+    "color": "orange",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1rsZxFYfJEAmnIuV9kCnmHV6IEvMdKE4AQ&s",
+    "title": "Vegetables",
+    "description": "Vegetables are essential components of a balanced diet, providing vital nutrients, fiber, and antioxidants that promote good health and well-being. Our initiative for \"Vegetables\" aims to ensure that individuals and families have access to a variety of fresh and nutritious vegetables. By supporting this cause, you help promote healthy eating habits, reduce food insecurity, and support local agriculture. Your contributions support initiatives that advocate for sustainable farming practices, community gardens, and educational programs about the benefits of vegetable consumption. Together, we can cultivate healthier communities and empower individuals to thrive through the goodness of vegetables.",
+    "price": 49.99
+  },
+  {
+    "id": 12,
+    "category": "Food",
+    "color": "orange",
+    "img": "https://media.istockphoto.com/id/1297005217/photo/farmer-pouring-raw-milk-into-container.jpg?s=612x612&w=0&k=20&c=toiruwu04HHkwnLZhpKEjNPqOHI7Kmut5NMGTFSGm4M=",
+    "title": "Dairy",
+    "description": "Dairy products are rich sources of essential nutrients like calcium, protein, and vitamins that are vital for bone health and overall well-being. Our commitment to \"Dairy\" aims to ensure access to nutritious dairy products for individuals and families. By supporting this cause, you help promote dairy consumption as part of a balanced diet, especially in communities where access to nutritious foods may be limited. Your contributions support initiatives that advocate for sustainable dairy farming practices, improve access to dairy products, and educate communities about the nutritional benefits of dairy. Together, we can foster healthier diets and stronger communities through the goodness of dairy.",
+    "price": 99.99
+  }
+]
