@@ -30,7 +30,7 @@ function DonationCard({ donation }) {
 
   return (
     <div className={`rounded-lg ${classes.bg100} mx-auto`}>
-      <img className="w-80 h-48" src={img} alt="" />
+      <img className="w-full h-48" src={img} alt="" />
       <div className="p-4">
         <div
           className={`px-2 py-1 rounded-sm ${classes.bg200} w-24 text-center`}
