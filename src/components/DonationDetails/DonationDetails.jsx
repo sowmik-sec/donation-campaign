@@ -1,4 +1,6 @@
 import { useLocation } from "react-router-dom";
+import { storeToLocalStorage } from "../../utilities/localStorage";
+import toast, { Toaster } from "react-hot-toast";
 
 const colorClasses = {
   red: {
@@ -22,13 +24,18 @@ function DonationDetails() {
   const { donation } = location.state;
   const { img, description, price, title, color } = donation;
   const classes = colorClasses[color];
-  console.log(donation);
+  const handleDonate = () => {
+    storeToLocalStorage(donation);
+    toast.success("Thanks for your donation");
+  };
   return (
     <div className="container mx-auto my-20">
+      <Toaster position="top-center" reverseOrder={false} />
       <div>
         <img className="w-full" src={img} alt="" />
         <div className="bg-black bg-opacity-50 h-32 relative -top-32">
           <button
+            onClick={handleDonate}
             className={`${classes.bg400} text-white px-4 py-2 rounded-md ml-10 mt-10`}
           >
             Donate ${price}
