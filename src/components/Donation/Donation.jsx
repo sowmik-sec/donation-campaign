@@ -10,6 +10,13 @@ function Donation() {
   };
   return (
     <div className="container mx-auto mt-10">
+      <div
+        className={`${
+          !donations.length ? "block" : "hidden"
+        } text-center text-red-400 mt-20`}
+      >
+        <h1 className="text-7xl">You have not donated yet. Please donate.</h1>
+      </div>
       <div className="grid grid-cols-1 md:grid-cols-2  gap-6">
         {donations.slice(0, showItems).map((donation, i) => (
           <DonateCard key={i} donation={donation} />
