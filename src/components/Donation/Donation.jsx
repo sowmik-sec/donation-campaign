@@ -11,8 +11,8 @@ function Donation() {
   return (
     <div className="container mx-auto mt-10">
       <div className="grid grid-cols-1 md:grid-cols-2  gap-6">
-        {donations.slice(0, showItems).map((donation) => (
-          <DonateCard key={donation.id} donation={donation} />
+        {donations.slice(0, showItems).map((donation, i) => (
+          <DonateCard key={i} donation={donation} />
         ))}
       </div>
       <div
