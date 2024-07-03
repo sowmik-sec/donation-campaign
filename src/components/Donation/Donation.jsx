@@ -18,12 +18,14 @@ function Donation() {
       <div
         className={`text-center mt-10 ${showItems > 4 ? "hidden" : "block"}`}
       >
-        <button
-          onClick={handleShowAll}
-          className="text-white bg-green-400 px-4 py-2 rounded-md"
-        >
-          See All
-        </button>
+        {donations.length > 4 && (
+          <button
+            onClick={handleShowAll}
+            className="text-white bg-green-400 px-4 py-2 rounded-md"
+          >
+            See All
+          </button>
+        )}
       </div>
     </div>
   );
